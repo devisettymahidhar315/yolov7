@@ -1,0 +1,10 @@
+jsbeautifier==1.14.7
+networkx==3.1
+xlsxwriter==3.0.8
+tqdm==4.66.3
+enlighten==1.12.4
+opencv-python-headless==4.8.0.74
+diffusers==0.12.1
+accelerate==0.27.2
+evaluate==0.4.0
+bert-score==0.3.12
